@@ -1,0 +1,1 @@
+export { default as MyTags } from './my-tags'

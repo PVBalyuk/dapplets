@@ -1,0 +1,1 @@
+export { default as MyLists } from './my-lists';
